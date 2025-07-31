@@ -1,4 +1,4 @@
-<!-- abhisekbehera11/README.md -->
+<!-- Abhisek1233/README.md -->
 
 <h1 align="center">Hi 👋, I'm Abhisek Behera</h1>
 
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abhisekbehera11&label=Profile%20views&color=0e75b6&style=flat" alt="abhisekbehera11" />
+  <img src="https://komarev.com/ghpvc/?username=Abhisek1233&label=Profile%20views&color=0e75b6&style=flat" alt="Abhisek1233" />
 </p>
 
 ---
@@ -21,9 +21,9 @@
 - 📚 I write technical articles and share my journey on [LinkedIn](https://www.linkedin.com/in/abhisek-behera/)  
 - ⚡ Fun fact: I love debugging, building mini projects, and breaking down tech into simple ideas 😄  
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, MySQL**  
-- 📫 Reach me at **abhisekbehera1101@gmail.com**  
+- 📫 Reach me at **Abhisek123301@gmail.com**  
 - 🧭 Know more: [LinkedIn Profile](https://www.linkedin.com/in/abhisek-behera/)  
-- 🌍 My portfolio: [GitHub Projects](https://github.com/abhisekbehera11?tab=repositories)  
+- 🌍 My portfolio: [GitHub Projects](https://github.com/Abhisek1233?tab=repositories)  
 
 ---
 
@@ -36,7 +36,7 @@
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="mailto:abhisekbehera1101@gmail.com" target="_blank">
+  <a href="mailto:Abhisek123301@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
@@ -66,23 +66,23 @@
 
 ### 🔍 Check Out My Projects:
 
-- ✅ [Java8s](https://github.com/abhisekbehera11/java8s) — E-learning Platform  
-- ✅ [Clinic Management System](https://github.com/abhisekbehera11/clinic-ms) — Full Stack Hospital App  
-- ✅ [Wish to Visit](https://github.com/abhisekbehera11/wish-to-visit) — Travel Wishlist Planner  
-- ✅ [Code Runner](https://github.com/abhisekbehera11/code-runner) — Online Code Execution App  
+- ✅ [Java8s](https://github.com/Abhisek1233/java8s) — E-learning Platform  
+- ✅ [Clinic Management System](https://github.com/Abhisek1233/clinic-ms) — Full Stack Hospital App  
+- ✅ [Wish to Visit](https://github.com/Abhisek1233/wish-to-visit) — Travel Wishlist Planner  
+- ✅ [Code Runner](https://github.com/Abhisek1233/code-runner) — Online Code Execution App  
 
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisekbehera11&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhisek1233&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ### 📈 Most Used Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisekbehera11&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisek1233&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
