@@ -69,10 +69,10 @@
 
 ### 🔍 Check Out My Projects:
 
-- ✅ [Java8s](https://github.com/Abhisek1233/java8s) — E-learning Platform  
-- ✅ [Clinic Management System](https://github.com/Abhisek1233/clinic-ms) — Full Stack Hospital App  
-- ✅ [Wish to Visit](https://github.com/Abhisek1233/wish-to-visit) — Travel Wishlist Planner  
-- ✅ [Code Runner](https://github.com/Abhisek1233/code-runner) — Online Code Execution App  
+- ✅ [Java8s]() — E-learning Platform  
+- ✅ [Clinic Management System]() — Full Stack Hospital App  
+- ✅ [Wish to Visit]() — Travel Wishlist Planner  
+- ✅ [Code Runner]() — Online Code Execution App  
 
 ---
 
