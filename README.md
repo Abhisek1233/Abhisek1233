@@ -5,7 +5,7 @@
 <p align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Java (DSA) Learner | Open to Internship and Job Opportunities</p>
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" /></a>
+  <a href="https://x.com/Abhisek48807" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" /></a>
 <a href="https://github.com/Abhisek1233" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Abhisek1233&label=Profile%20views&color=0e75b6&style=flat" alt="Abhisek1233" />
 </a>
@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/abhisek-behera-a797b3273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x.com/Abhisek48807" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
   <a href="mailto:abhisekbehera506@gmail.com" target="_blank">
