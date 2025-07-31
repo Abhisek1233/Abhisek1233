@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" /></a>
+<a href="https://github.com/Abhisek1233" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=Abhisek1233&label=Profile%20views&color=0e75b6&style=flat" alt="Abhisek1233" />
+</a>
+
 </p>
 
 ---
