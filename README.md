@@ -21,25 +21,25 @@
 - 🧠 Exploring **Redux Toolkit**, **Next.js**, and **Microservices**  
 - 🤝 Open to collaborating on real-world **Open Source** or **Startup Projects**  
 - 📌 Looking for **internship** or **junior developer** opportunities in MERN or React  
-- 📚 I write technical articles and share my journey on [LinkedIn](https://www.linkedin.com/in/abhisek-behera/)  
+- 📚 I write technical articles and share my journey on [LinkedIn](https://www.linkedin.com/in/abhisek-behera-a797b3273/)  
 - ⚡ Fun fact: I love debugging, building mini projects, and breaking down tech into simple ideas 😄  
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, MySQL**  
-- 📫 Reach me at **Abhisek123301@gmail.com**  
-- 🧭 Know more: [LinkedIn Profile](https://www.linkedin.com/in/abhisek-behera/)  
-- 🌍 My portfolio: [GitHub Projects](https://github.com/Abhisek1233?tab=repositories)  
+- 📫 Reach me at **abhisekbehera506@gmail.com**  
+- 🧭 Know more: [LinkedIn Profile](https://www.linkedin.com/in/abhisek-behera-a797b3273/)  
+- 🌍 My portfolio: [GitHub Projects](https://my-portfolio-two-zeta-54.vercel.app/)  
 
 ---
 
 ### 🔗 Connect with Me:
 
 <p>
-  <a href="https://linkedin.com/in/abhisek-behera-678591204" target="_blank">
+  <a href="https://www.linkedin.com/in/abhisek-behera-a797b3273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="mailto:Abhisek123301@gmail.com" target="_blank">
+  <a href="mailto:abhisekbehera506@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
