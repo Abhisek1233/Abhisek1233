@@ -26,7 +26,7 @@
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, MySQL**  
 - 📫 Reach me at **abhisekbehera506@gmail.com**  
 - 🧭 Know more: [LinkedIn Profile](https://www.linkedin.com/in/abhisek-behera-a797b3273/)  
-- 🌍 My portfolio: [GitHub Projects](https://my-portfolio-two-zeta-54.vercel.app/)  
+- 🌍 My portfolio: [GitHub Projects](https://my-prortfolio-i5qc.vercel.app/)  
 
 ---
 
