@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhisek Behera</h1>
 
-<p align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Java (DSA) Learner | Open to Internship and Job Opportunities</p>
+<p align="center">🚀 Aspiring Full Stack Developer | MERN Stack Enthusiast | Python| Java (DSA) Learner | Open to Internship and Job Opportunities</p>
 
 <p align="center">
   <a href="https://x.com/Abhisek48807" target="_blank"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?style=social" /></a>
