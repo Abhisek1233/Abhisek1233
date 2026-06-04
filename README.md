@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me:
 
 - 🔭 I’m currently working on a **School Management System** using the MERN Stack  
-- 🌱 I’m learning **Data Structures & Algorithms (Java)** and **System Design**  
+- 🌱 I’m learning **Data Structures & Algorithms ** and **System Design**  
 - 🧠 Exploring **Redux Toolkit**, **Next.js**, and **Microservices**  
 - 🤝 Open to collaborating on real-world **Open Source** or **Startup Projects**  
 - 📌 Looking for **internship** or **junior developer** opportunities in MERN or React  
